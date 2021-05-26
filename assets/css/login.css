@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+*
+{
+    margin-right: 20px;
+    padding: 10px;
+}
+body
+{
+    background-color: #000;
+  
+}
+h1
+{
+margin-top: 15px;
+text-align: center;
+font-family: 'Bangers', cursive;
+font-style: normal;
+font-weight: 300;
+font-size: 60px;
+color: #FFFFFF;
+}
+label
+{
+    font-family: 'Bangers', cursive;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+h2
+{
+text-align: center;
+font-family: 'Bangers', cursive;
+font-style: normal;
+font-weight: 300;
+font-size: 40px;
+color: #FFFFFF;
+}

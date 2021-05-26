@@ -1,0 +1,283 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+body
+{
+    background-color: #000;
+  
+}
+.bma
+{
+    position: absolute;
+    width: 600px;
+    height: 500px;
+    left: 50px;
+    top: 70px;
+}
+.bma h1
+{
+    font-family: 'Bangers', cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 60px;
+    line-height: 110px;
+    color: #FFFFFF;
+}
+.design1
+{
+    position: absolute;
+    width: 280px;
+    height: 180.82px;
+    left: 63px;
+    top: 430px;
+    /* background: #00FFFF; */
+}
+.design2
+{
+    position: absolute;
+    width: 265px;
+    height: 304.84px;
+    left: 998px;
+    top: -85px;
+    /* background: #00FFFF; */
+}
+.smartphone
+{
+    position: absolute;
+    width: 280px;
+    height: 540px;
+    left: 500px;
+    top: 30px;
+    background: #000000;
+    border: 5px solid #FFFFFF;
+    border-radius: 40px;
+}
+.smartphone h1
+{
+    position: absolute;
+    width: 142px;
+    height: 60px;
+    left: 90px;
+    top: 5px;
+    font-family: 'Bangers', cursive;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 59px;
+    color: #FFFF00;
+
+}
+.smartphone img
+{
+    position: absolute;
+    left: 25px;
+    top: 25px;
+    
+}
+.smartphone .bottxt
+{
+    position: absolute;
+    width: 80%;
+    height: 60px;
+    border-color:yellow;
+    left: 20px;
+    top: 70px;
+    background: #FFFFFF;
+    font-family: 'Bangers', cursive;
+    font-size: 12px;
+    overflow-y: scroll;
+}
+.smartphone .usertxt
+{
+    position: absolute;
+    width: 80%;
+    height: 60px;
+    border-color:yellow;
+    left: 40px;
+    top: 150px;
+    overflow-y: scroll;
+    background: #FFFFFF;
+    font-family: 'Bangers', cursive;
+    font-size:12px
+
+}
+.numpanel, .numpanel1, .numpanel2
+{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 30px;
+    border-radius: 50%;
+    background: #FFFF00;
+
+}
+.numpanel
+{
+    top: 230px;
+}
+
+.numpanel1
+{
+    top: 300px;
+
+}
+.numpanel2
+{
+    top: 370px;
+
+}
+.numpanel3
+{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 20px;
+    border-radius: 50%;
+    background: #FFFF00;
+    top: 440px;
+
+}
+
+.numpanel h3,.numpanel1 h3,.numpanel2 h3
+{
+    position: absolute;
+    width: 46px;
+    height: 45px;
+    left: 15px;
+    font-family: 'Bangers', cursive;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 45px;
+    color: #FF0000;
+}
+.numpanel3 img
+{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 15px;
+    top:15px;
+}
+
+.author
+{
+    position: absolute;
+    width: 250px;
+    height: 239px;
+    left: 900px;
+    top: 300px;
+}
+.author h2
+{
+    font-family: 'Bangers', cursive;;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 53px;
+
+    color: #FFFFFF;
+}
+@media screen and (max-width:768px) 
+{
+.bma
+{
+    display: none;
+}
+.design1
+{
+    display: none;
+}
+.design2
+{
+    display: none;
+}
+.author
+{
+    display: none;
+}
+.smartphone
+{
+    position: static;
+    width: 95%;
+    height: 750px;
+    margin-top: 20px;
+    margin-left: 5px;
+   
+}
+.smartphone h1
+{
+    width: 70%;
+    height: 60px;
+    left: 65px;
+    text-align: center;
+    top: 20px;
+    font-size: 40px;
+
+}
+.smartphone img
+{
+    left: 35px;
+    top: 35px;
+    
+}
+
+.smartphone .bottxt
+{
+    height: 60px;
+    left: 20px;
+    top: 120px;
+}
+.smartphone .usertxt
+{
+    height: 60px;
+    left: 40px;
+    top: 210px;
+
+}
+.numpanel, .numpanel1, .numpanel2
+{
+    width: 100px;
+    height: 100px;
+    left: 35px;
+
+}
+.numpanel
+{
+    top: 260px;
+}
+
+.numpanel1
+{
+    top: 380px;
+
+}
+.numpanel2
+{
+    top: 500px;
+
+}
+.numpanel3
+{
+    width: 90px;
+    height: 90px;
+    left: 25px;
+    top: 620px;
+
+}
+.numpanel h3,.numpanel1 h3,.numpanel2 h3
+{
+    width: 46px;
+    height: 80px;
+    left: 15px;
+    font-weight: 300;
+    font-size: 85px;
+}
+.numpanel3 img
+{
+    width: 45px;
+    height: 45px;
+    left: 20px;
+    top:20px;
+}
+
+    
+}

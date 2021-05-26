@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+body
+{
+    background-color: #000;
+  
+}
+.bma
+{
+    position: absolute;
+    width: 600px;
+    height: 500px;
+    left: 50px;
+    top: 70px;
+}
+.bma h1
+{
+    font-family: 'Bangers', cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 60px;
+    line-height: 110px;
+    color: #FFFFFF;
+}
+.design1
+{
+    position: absolute;
+    width: 280px;
+    height: 180.82px;
+    left: 63px;
+    top: 430px;
+    /* background: #00FFFF; */
+}
+.design2
+{
+    position: absolute;
+    width: 265px;
+    height: 304.84px;
+    left: 998px;
+    top: -85px;
+    /* background: #00FFFF; */
+}
+.smartphone
+{
+    position: absolute;
+    width: 280px;
+    height: 540px;
+    left: 500px;
+    top: 30px;
+    background: #000000;
+    border: 5px solid #FFFFFF;
+    border-radius: 40px;
+}
+.smartphone h1
+{
+    position: absolute;
+    width: 142px;
+    height: 60px;
+    left: 90px;
+    top: 5px;
+    font-family: 'Bangers', cursive;;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 59px;
+    color: #FFFF00;
+
+}
+.smartphone .mikebox
+{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 40px;
+    top: 110px;
+    background: #FFFF00;
+    border-radius: 50%;
+}
+.smartphone .mikebox img
+{
+    position: absolute;
+    width: 174px;
+    height: 170px;
+    left: 10px;
+    top: 10px;
+}
+.smartphone .keybox
+{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 40px;
+    top: 330px;
+    background: #FFFF00;
+    border-radius: 50%;
+}
+.smartphone .keybox img
+{
+    position: absolute;
+    width: 165px;
+    height: 160px;
+    left: 20px;
+    top: 20px;
+}
+.author
+{
+    position: absolute;
+    width: 250px;
+    height: 239px;
+    left: 900px;
+    top: 300px;
+}
+.author h2
+{
+    font-family: 'Bangers', cursive;;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 53px;
+
+    color: #FFFFFF;
+}
+@media screen and (max-width:768px) 
+{
+.bma
+{
+    display: none;
+}
+.design1
+{
+    display: none;
+}
+.design2
+{
+    display: none;
+}
+.author
+{
+    display: none;
+}
+.smartphone
+{
+    position: static;
+    width: 95%;
+    height: 750px;
+    margin-top: 20px;
+    margin-left: 5px;
+   
+}
+.smartphone h1
+{
+    position: absolute;
+    width: 80%;
+    height: 60px;
+    left: 25px;
+    text-align: center;
+    top: 5px;
+    font-size: 40px;
+
+}
+.smartphone .mikebox
+{
+    position: absolute;
+    width: 230px;
+    height: 230px;
+    left: 70px;
+    top: 180px;
+    background: #FFFF00;
+    border-radius: 50%;
+}
+.smartphone .mikebox img
+{
+    position: absolute;
+    width: 174px;
+    height: 170px;
+    left: 25px;
+    top: 20px;
+}
+.smartphone .keybox
+{
+    position: absolute;
+    width: 230px;
+    height: 230px;
+    left: 70px;
+    top: 450px;
+    background: #FFFF00;
+    border-radius: 50%;
+}
+.smartphone .keybox img
+{
+    position: absolute;
+    width: 174px;
+    height: 170px;
+    left: 25px;
+    top: 28px;
+}
+    
+}
