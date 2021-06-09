@@ -1,10 +1,10 @@
 
 # BMA
 
-**BMA is chatbot desinged specifically for Blind people.
+BMA is chatbot desinged specifically for Blind people.
 The chatbot gets the input through the traditional speech or through keyboard along with blind user specific braille keyboard.
 
-**
+
 
 # Architecture Diagram
 ![Architecture Diagram of BMA](screenshots/1.PNG)
@@ -12,14 +12,19 @@ The chatbot gets the input through the traditional speech or through keyboard al
 
 ***Architecture Diagram of BMA*
 
-**
+
 
 # Working Procedure of Braille Keyboard
 
-**![Braille Keyboard Use Case](screenshots/2.PNG)
-*Braille Keyboard Use case diagram*
+![Braille Keyboard Use Case](screenshots/2.PNG)
+
+***Braille Keyboard Use case diagram*
+
+
 ![Braille Keyboard and English Alphabets Matching Pattern](screenshots/3.png)
-*Braille Pattern*
+
+
+***Braille Pattern*
 
     
   Braille Keyboard works by getting the key value from the button user clicks and storing those patterns temporarily in the client side. 
@@ -71,7 +76,7 @@ After the user presses the submit button the BMA uses a regex expression to unde
  - Get Nearby Places Location
  - Make a call
  
- **
+ 
 
 # Screenshots
 
@@ -79,11 +84,11 @@ After the user presses the submit button the BMA uses a regex expression to unde
 
 ***Braille Keyboard Working Pattern*
 
-![BMA index page](screenshots/5.PNG)
+![BMA index page](screenshots/6.PNG)
 
-***Braille Keyboard Working Pattern*
+***BMA Index Page*
 
-![Braille Screen](screenshots/6.PNG)
+![Braille Screen](screenshots/5.PNG)
 
 ***Braille Screen*
 
