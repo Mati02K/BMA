@@ -7,7 +7,7 @@ The chatbot gets the input through the traditional speech or through keyboard al
 **
 
 # Architecture Diagram
-![Architecture Diagram of BMA](screenshots/1.png)
+![Architecture Diagram of BMA](screenshots/1.PNG)
 
 
 ***Architecture Diagram of BMA*
@@ -16,7 +16,7 @@ The chatbot gets the input through the traditional speech or through keyboard al
 
 # Working Procedure of Braille Keyboard
 
-**![Braille Keyboard Use Case](screenshots/2.png)
+**![Braille Keyboard Use Case](screenshots/2.PNG)
 *Braille Keyboard Use case diagram*
 ![Braille Keyboard and English Alphabets Matching Pattern](screenshots/3.png)
 *Braille Pattern*
@@ -75,19 +75,19 @@ After the user presses the submit button the BMA uses a regex expression to unde
 
 # Screenshots
 
-![Braille Keyboard Working Pattern](screenshots/4.png)
+![Braille Keyboard Working Pattern](screenshots/4.gif)
 
 ***Braille Keyboard Working Pattern*
 
-![BMA index page](screenshots/5.png)
+![BMA index page](screenshots/5.PNG)
 
 ***Braille Keyboard Working Pattern*
 
-![Braille Screen](screenshots/6.png)
+![Braille Screen](screenshots/6.PNG)
 
 ***Braille Screen*
 
-![BMA Speech Recongnition Page](screenshots/7.png)
+![BMA Speech Recongnition Page](screenshots/7.PNG)
 
 ***BMA Speech Recongnition Page*
 
