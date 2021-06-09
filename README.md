@@ -30,7 +30,7 @@ The chatbot gets the input through the traditional speech or through keyboard al
   Braille Keyboard works by getting the key value from the button user clicks and storing those patterns temporarily in the client side. 
   
 
-    //Code for Marching the Braille Keyboard Pattern
+    //Code for Matching the Braille Keyboard Pattern
     function braille_converter()
     {
     var  braille_value  =  localStorage.getItem("key_value");
