@@ -7,7 +7,7 @@ The chatbot gets the input through the traditional speech or through keyboard al
 **
 
 # Architecture Diagram
-![Architecture Diagram of BMA](BMA screenshots/Architecture Diagram.PNG)
+![Architecture Diagram of BMA]("assets/img/braille.png")
 
 
 ***Architecture Diagram of BMA*
