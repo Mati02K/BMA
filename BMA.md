@@ -1,4 +1,4 @@
-
+﻿
 # BMA
 
 **BMA is chatbot desinged specifically for Blind people.
@@ -7,7 +7,7 @@ The chatbot gets the input through the traditional speech or through keyboard al
 **
 
 # Architecture Diagram
-![Architecture Diagram of BMA](BMA Screenshots/Architecture Diagram.png)
+![Architecture Diagram of BMA](https://github.com/Mati02K/BMA/blob/main/BMA%20screenshots/Architecture%20Diagram.PNG)
 
 
 ***Architecture Diagram of BMA*
@@ -16,9 +16,9 @@ The chatbot gets the input through the traditional speech or through keyboard al
 
 # Working Procedure of Braille Keyboard
 
-**![Braille Keyboard Use Case](BMA Screenshots/braillekeyboard use case.png)
+**![Braille Keyboard Use Case](https://github.com/Mati02K/BMA/blob/main/BMA%20screenshots/braillekeyboard%20use%20case.PNG)
 *Braille Keyboard Use case diagram*
-![Braille Keyboard and English Alphabets Matching Pattern](BMA Screenshots/Braille-cell-and-Braille-alphabet-14.png)
+![Braille Keyboard and English Alphabets Matching Pattern](https://github.com/Mati02K/BMA/blob/main/BMA%20screenshots/Braille-cell-and-Braille-alphabet-14.png)
 *Braille Pattern*
 
     
@@ -75,20 +75,8 @@ After the user presses the submit button the BMA uses a regex expression to unde
 
 # Screenshots
 
-![Braille Keyboard Working Pattern](BMA Screenshots/Braille Working.gif)
+![Braille Keyboard Pattern](https://github.com/Mati02K/BMA/blob/main/BMA%20screenshots/braillescreen.PNG)
 
-***Braille Keyboard Working Pattern*
-
-![BMA index page](BMA Screenshots/index page design.png)
-
-***Braille Keyboard Working Pattern*
-
-![Braille Screen](BMA Screenshots/braillescreen.png)
-
-***Braille Screen*
-
-![BMA login page](BMA Screenshots/testloginreport.png)
-
-***BMA Login Page*
+***Braille Keyboard*
 
 
